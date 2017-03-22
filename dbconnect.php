@@ -1,4 +1,4 @@
 <?php
-mysql_connect("localhost","ccbstin_krina","krina@123");
-mysql_select_db("ccbstin_project_tracker") or die("Unable to connect");
+mysql_connect("localhost","root","");
+mysql_select_db("db_name") or die("Unable to connect");
 ?>
